@@ -1,0 +1,5 @@
+Place your images in this directory:
+- profile.jpg (your profile photo)
+- project1.jpg, project2.jpg, project3.jpg (project screenshots)
+
+You can also create subdirectories for better organization.
