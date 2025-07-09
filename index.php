@@ -96,8 +96,7 @@ I’m Lawrence Kimasar, a  developer focused on building smart, scalable digital
                         <div class="tab-pane active" id="personal">
                             <h2>Unmatched Services Quality for Over 3 Years</h2>
                             <p class="about-description">
-                                I specialize in crafting intuitive website with cutting-edge technology, delivering 
-                                dynamic and engaging user experience.
+                               
                             </p>
 
                             <div class="personal-info-grid">
