@@ -23,7 +23,8 @@ try {
                         Hello, my name is <span class="text-muted">Lawrence Kimasar</span>
                     </h1>
                     <p class="hero-description">
-                        Brief description with insights into myself, my vocational journey, and what I engage in professionally.
+                        
+I’m Lawrence Kimasar, a  developer focused on building smart, scalable digital solutions. With experience in web apps, backend systems, and data-driven tools, I turn ideas into impactful, user-friendly products. I thrive on innovation, simplicity, and solving real-world problems through code.
                     </p>
                     
                     <div class="hero-buttons">
